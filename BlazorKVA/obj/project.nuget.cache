@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DBWxmkwBylLB7cy8HFFXui/+tekQYzwZMpsD1FprYcgvbEA9GSKZir2LoElvQtdc6BKm0W+xOkw7QGxOPg8aGQ==",
+  "dgSpecHash": "tyVURdlO6G48EgZjZnhoqSUFwGYeJ45KqrpaA9NnJ8pujOT/F51bqLVsKyvKYoQwI0wvpjXVhYcuSFveBO/O1A==",
   "success": true,
-  "projectFilePath": "/home/irdof/Project/Blazor-tuto/BlazorKVA/BlazorKVA.csproj",
+  "projectFilePath": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/BlazorKVA.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

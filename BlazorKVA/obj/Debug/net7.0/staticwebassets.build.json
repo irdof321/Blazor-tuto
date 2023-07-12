@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "I/6/p/s3YQyeRKlCY+n8teq4pVy1O+4Pqird/1QQNI8=",
+  "Hash": "qocvy3OI+t27sXBjT8yuKZzt0HxK87uL06zHAkAIwL0=",
   "Source": "BlazorKVA",
   "BasePath": "_content/BlazorKVA",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorKVA/wwwroot",
       "Source": "BlazorKVA",
-      "ContentRoot": "/home/irdof/Project/Blazor-tuto/BlazorKVA/wwwroot/",
+      "ContentRoot": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/wwwroot/",
       "BasePath": "_content/BlazorKVA",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/home/irdof/Project/Blazor-tuto/BlazorKVA/obj/Debug/net7.0/scopedcss/bundle/BlazorKVA.styles.css",
+      "Identity": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/obj/Debug/net7.0/scopedcss/bundle/BlazorKVA.styles.css",
       "SourceId": "BlazorKVA",
       "SourceType": "Computed",
-      "ContentRoot": "/home/irdof/Project/Blazor-tuto/BlazorKVA/obj/Debug/net7.0/scopedcss/bundle/",
+      "ContentRoot": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/obj/Debug/net7.0/scopedcss/bundle/",
       "BasePath": "_content/BlazorKVA",
       "RelativePath": "BlazorKVA.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/irdof/Project/Blazor-tuto/BlazorKVA/obj/Debug/net7.0/scopedcss/bundle/BlazorKVA.styles.css"
+      "OriginalItemSpec": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/obj/Debug/net7.0/scopedcss/bundle/BlazorKVA.styles.css"
     },
     {
-      "Identity": "/home/irdof/Project/Blazor-tuto/BlazorKVA/obj/Debug/net7.0/scopedcss/projectbundle/BlazorKVA.bundle.scp.css",
+      "Identity": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/obj/Debug/net7.0/scopedcss/projectbundle/BlazorKVA.bundle.scp.css",
       "SourceId": "BlazorKVA",
       "SourceType": "Computed",
-      "ContentRoot": "/home/irdof/Project/Blazor-tuto/BlazorKVA/obj/Debug/net7.0/scopedcss/projectbundle/",
+      "ContentRoot": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/obj/Debug/net7.0/scopedcss/projectbundle/",
       "BasePath": "_content/BlazorKVA",
       "RelativePath": "BlazorKVA.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/irdof/Project/Blazor-tuto/BlazorKVA/obj/Debug/net7.0/scopedcss/projectbundle/BlazorKVA.bundle.scp.css"
+      "OriginalItemSpec": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/obj/Debug/net7.0/scopedcss/projectbundle/BlazorKVA.bundle.scp.css"
     },
     {
-      "Identity": "/home/irdof/Project/Blazor-tuto/BlazorKVA/wwwroot/css/bootstrap/bootstrap.min.css",
+      "Identity": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/wwwroot/css/bootstrap/bootstrap.min.css",
       "SourceId": "BlazorKVA",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/irdof/Project/Blazor-tuto/BlazorKVA/wwwroot/",
+      "ContentRoot": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/wwwroot/",
       "BasePath": "_content/BlazorKVA",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css"
     },
     {
-      "Identity": "/home/irdof/Project/Blazor-tuto/BlazorKVA/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "Identity": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/wwwroot/css/bootstrap/bootstrap.min.css.map",
       "SourceId": "BlazorKVA",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/irdof/Project/Blazor-tuto/BlazorKVA/wwwroot/",
+      "ContentRoot": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/wwwroot/",
       "BasePath": "_content/BlazorKVA",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Identity": "/home/irdof/Project/Blazor-tuto/BlazorKVA/wwwroot/css/open-iconic/FONT-LICENSE",
+      "Identity": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/wwwroot/css/open-iconic/FONT-LICENSE",
       "SourceId": "BlazorKVA",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/irdof/Project/Blazor-tuto/BlazorKVA/wwwroot/",
+      "ContentRoot": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/wwwroot/",
       "BasePath": "_content/BlazorKVA",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/FONT-LICENSE"
     },
     {
-      "Identity": "/home/irdof/Project/Blazor-tuto/BlazorKVA/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "Identity": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "SourceId": "BlazorKVA",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/irdof/Project/Blazor-tuto/BlazorKVA/wwwroot/",
+      "ContentRoot": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/wwwroot/",
       "BasePath": "_content/BlazorKVA",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "/home/irdof/Project/Blazor-tuto/BlazorKVA/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "Identity": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
       "SourceId": "BlazorKVA",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/irdof/Project/Blazor-tuto/BlazorKVA/wwwroot/",
+      "ContentRoot": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/wwwroot/",
       "BasePath": "_content/BlazorKVA",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.eot"
     },
     {
-      "Identity": "/home/irdof/Project/Blazor-tuto/BlazorKVA/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "Identity": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
       "SourceId": "BlazorKVA",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/irdof/Project/Blazor-tuto/BlazorKVA/wwwroot/",
+      "ContentRoot": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/wwwroot/",
       "BasePath": "_content/BlazorKVA",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.otf"
     },
     {
-      "Identity": "/home/irdof/Project/Blazor-tuto/BlazorKVA/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "Identity": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
       "SourceId": "BlazorKVA",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/irdof/Project/Blazor-tuto/BlazorKVA/wwwroot/",
+      "ContentRoot": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/wwwroot/",
       "BasePath": "_content/BlazorKVA",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.svg"
     },
     {
-      "Identity": "/home/irdof/Project/Blazor-tuto/BlazorKVA/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "Identity": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
       "SourceId": "BlazorKVA",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/irdof/Project/Blazor-tuto/BlazorKVA/wwwroot/",
+      "ContentRoot": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/wwwroot/",
       "BasePath": "_content/BlazorKVA",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.ttf"
     },
     {
-      "Identity": "/home/irdof/Project/Blazor-tuto/BlazorKVA/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "Identity": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
       "SourceId": "BlazorKVA",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/irdof/Project/Blazor-tuto/BlazorKVA/wwwroot/",
+      "ContentRoot": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/wwwroot/",
       "BasePath": "_content/BlazorKVA",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.woff"
     },
     {
-      "Identity": "/home/irdof/Project/Blazor-tuto/BlazorKVA/wwwroot/css/open-iconic/ICON-LICENSE",
+      "Identity": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/wwwroot/css/open-iconic/ICON-LICENSE",
       "SourceId": "BlazorKVA",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/irdof/Project/Blazor-tuto/BlazorKVA/wwwroot/",
+      "ContentRoot": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/wwwroot/",
       "BasePath": "_content/BlazorKVA",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/ICON-LICENSE"
     },
     {
-      "Identity": "/home/irdof/Project/Blazor-tuto/BlazorKVA/wwwroot/css/open-iconic/README.md",
+      "Identity": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/wwwroot/css/open-iconic/README.md",
       "SourceId": "BlazorKVA",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/irdof/Project/Blazor-tuto/BlazorKVA/wwwroot/",
+      "ContentRoot": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/wwwroot/",
       "BasePath": "_content/BlazorKVA",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/README.md"
     },
     {
-      "Identity": "/home/irdof/Project/Blazor-tuto/BlazorKVA/wwwroot/css/site.css",
+      "Identity": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/wwwroot/css/site.css",
       "SourceId": "BlazorKVA",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/irdof/Project/Blazor-tuto/BlazorKVA/wwwroot/",
+      "ContentRoot": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/wwwroot/",
       "BasePath": "_content/BlazorKVA",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/home/irdof/Project/Blazor-tuto/BlazorKVA/wwwroot/favicon.png",
+      "Identity": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/wwwroot/favicon.png",
       "SourceId": "BlazorKVA",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/irdof/Project/Blazor-tuto/BlazorKVA/wwwroot/",
+      "ContentRoot": "/home/irdof/Projects/Blazor-tuto/BlazorKVA/wwwroot/",
       "BasePath": "_content/BlazorKVA",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

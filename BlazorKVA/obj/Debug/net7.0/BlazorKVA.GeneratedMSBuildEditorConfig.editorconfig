@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorKVA
 build_property.RootNamespace = BlazorKVA
-build_property.ProjectDir = /home/irdof/Project/Blazor-tuto/BlazorKVA/
+build_property.ProjectDir = /home/irdof/Projects/Blazor-tuto/BlazorKVA/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/irdof/Project/Blazor-tuto/BlazorKVA
+build_property.MSBuildProjectDirectory = /home/irdof/Projects/Blazor-tuto/BlazorKVA
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/irdof/Project/Blazor-tuto/BlazorKVA/App.razor]
+[/home/irdof/Projects/Blazor-tuto/BlazorKVA/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/irdof/Project/Blazor-tuto/BlazorKVA/Pages/Counter.razor]
+[/home/irdof/Projects/Blazor-tuto/BlazorKVA/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/irdof/Project/Blazor-tuto/BlazorKVA/Pages/FetchData.razor]
+[/home/irdof/Projects/Blazor-tuto/BlazorKVA/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/irdof/Project/Blazor-tuto/BlazorKVA/Pages/Index.razor]
+[/home/irdof/Projects/Blazor-tuto/BlazorKVA/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/irdof/Project/Blazor-tuto/BlazorKVA/Pages/Recipes.razor]
+[/home/irdof/Projects/Blazor-tuto/BlazorKVA/Pages/Recipes.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVjaXBlcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/irdof/Project/Blazor-tuto/BlazorKVA/Shared/SurveyPrompt.razor]
+[/home/irdof/Projects/Blazor-tuto/BlazorKVA/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/irdof/Project/Blazor-tuto/BlazorKVA/_Imports.razor]
+[/home/irdof/Projects/Blazor-tuto/BlazorKVA/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/irdof/Project/Blazor-tuto/BlazorKVA/Shared/MainLayout.razor]
+[/home/irdof/Projects/Blazor-tuto/BlazorKVA/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-xlcxog1glz
 
-[/home/irdof/Project/Blazor-tuto/BlazorKVA/Shared/NavMenu.razor]
+[/home/irdof/Projects/Blazor-tuto/BlazorKVA/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-hg53zfacuo
 
-[/home/irdof/Project/Blazor-tuto/BlazorKVA/Pages/Error.cshtml]
+[/home/irdof/Projects/Blazor-tuto/BlazorKVA/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/irdof/Project/Blazor-tuto/BlazorKVA/Pages/_Host.cshtml]
+[/home/irdof/Projects/Blazor-tuto/BlazorKVA/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
